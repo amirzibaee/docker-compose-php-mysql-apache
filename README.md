@@ -150,4 +150,9 @@ Connection to MySQL external
 ```
 localhost:3306
 ```
+Apache bash 
+```
+docker exec -it apache bash
+```
+
 
